@@ -1,6 +1,6 @@
 {
- "version": "2027.40",
- "date": "18/11/2026 à 22:50",
+ "version": "2027.41",
+ "date": "18/11/2026 à 23:13",
  "url": "https://github.com/juliennavaron-hue/catalogue-optimus/releases/latest/download/Catalogue-Optimus.html",
- "message": "Devis : le bouton devient « Réinitialiser informations du devis » et remet à zéro tous les champs des informations du devis."
+ "message": "Contacts : bouton « Nouveau contact » (client ou revendeur) et titres des listes mis en forme comme le menu du catalogue."
 }
