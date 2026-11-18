@@ -1,6 +1,6 @@
 {
- "version": "2027.32",
- "date": "18/11/2026 à 05:52",
+ "version": "2027.40",
+ "date": "18/11/2026 à 22:50",
  "url": "https://github.com/juliennavaron-hue/catalogue-optimus/releases/latest/download/Catalogue-Optimus.html",
- "message": "E-mail depuis le téléphone : nouveau bouton « Envoyer depuis ce téléphone » (PDF joint via le menu de partage)."
+ "message": "Devis : le bouton devient « Réinitialiser informations du devis » et remet à zéro tous les champs des informations du devis."
 }
