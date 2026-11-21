@@ -1,6 +1,6 @@
 {
- "version": "2027.61",
- "date": "21/11/2026 à 12:01",
+ "version": "2027.62",
+ "date": "21/11/2026 à 12:17",
  "url": "https://github.com/juliennavaron-hue/catalogue-optimus/releases/latest/download/Catalogue-Optimus.html",
- "message": "Onglet Projets : nouvelle barre de recherche pour retrouver un projet."
+ "message": "Onglet Projets : la barre de recherche est toujours visible, même sans projet enregistré."
 }
