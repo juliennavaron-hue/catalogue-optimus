@@ -1,6 +1,6 @@
 {
- "version": "2027.62",
- "date": "21/11/2026 à 12:17",
+ "version": "2027.63",
+ "date": "21/11/2026 à 12:21",
  "url": "https://github.com/juliennavaron-hue/catalogue-optimus/releases/latest/download/Catalogue-Optimus.html",
- "message": "Onglet Projets : la barre de recherche est toujours visible, même sans projet enregistré."
+ "message": "Nouveau bouton « Vérifier les mises à jour » en bas de page, qui explique pourquoi un bandeau s’affiche ou non."
 }
