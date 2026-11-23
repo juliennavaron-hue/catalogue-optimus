@@ -1,6 +1,6 @@
 {
- "version": "2027.63",
- "date": "21/11/2026 à 12:21",
+ "version": "2027.65",
+ "date": "23/11/2026 à 09:13",
  "url": "https://github.com/juliennavaron-hue/catalogue-optimus/releases/latest/download/Catalogue-Optimus.html",
- "message": "Nouveau bouton « Vérifier les mises à jour » en bas de page, qui explique pourquoi un bandeau s’affiche ou non."
+ "message": "La mention « Offre valable du … au … » s’adapte maintenant au mode clair / sombre de l’appareil."
 }
